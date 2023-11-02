@@ -1,0 +1,31 @@
+{
+  "name": "node_testing_app",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadmughal92/node-express-mysql-crud.git"
+  },
+  "keywords": [
+    "node",
+    "mysql",
+    "express"
+  ],
+  "author": "Asad Mughal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asadmughal92/node-express-mysql-crud/issues"
+  },
+  "homepage": "https://github.com/asadmughal92/node-express-mysql-crud#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mysql2": "^3.6.2",
+    "nodemon": "^3.0.1",
+    "sequelize": "^6.33.0"
+  }
+}
